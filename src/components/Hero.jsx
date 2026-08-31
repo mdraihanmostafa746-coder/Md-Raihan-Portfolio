@@ -55,7 +55,7 @@ function Hero() {
         <div className="hero-profile">
           <div className="profile-ring">
             <img
-              src="/profile/profile.jpg"
+              src={`${import.meta.env.BASE_URL}profile/profile.jpg`}
               alt="Md Raihan Mostafa"
               className="hero-profile-image"
             />
