@@ -46,7 +46,7 @@ function Navbar() {
 
           {/* Resume */}
           <a
-            href="/resume/Md-Raihan-Mostafa-CV.pdf"
+            href="/Md-Raihan-Portfolio/resume/Md-Raihan-Mostafa-CV.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="cv-button"
