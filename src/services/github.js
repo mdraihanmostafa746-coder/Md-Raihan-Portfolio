@@ -6,6 +6,7 @@ const EXCLUDED_REPOSITORIES = [
   "mdraihanmostafa746-coder",
   "Python-Mini-Project",
   "C_Classworks",
+  "Deep-Learning",
 ];
 
 export async function getGitHubRepositories() {
