@@ -8,6 +8,7 @@ const EXCLUDED_REPOSITORIES = [
   "C_Classworks",
   "Deep-Learning",
   "Machine-Learning-by-College",
+  "Chandrayaan-2-Multi-Modal-Image-Correspondence",
 ];
 
 export async function getGitHubRepositories() {
